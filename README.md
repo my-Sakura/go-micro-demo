@@ -4,4 +4,4 @@
 
 ## infrastructure
 
-    ![infrasture](https://github.com/my-Sakura/go-micro-demo/blob/main/grpc.png)
+![infrasture](https://github.com/my-Sakura/go-micro-demo/blob/main/grpc.png)
